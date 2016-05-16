@@ -1,0 +1,67 @@
+body {
+	color: rgb(230,230,230);
+	background-color: black;
+	font-family: 'Comfortaa', cursive;
+	text-shadow: 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+button {
+	margin: 20px;
+	height: 50px;
+}
+
+h1 {
+	padding: 10px 10px 50px 10px;
+}
+
+p {
+	padding: 10px 10px 50px 10px;
+	font-size: 20px;
+}
+
+.row {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.btn {
+	border: black solid 2px;
+}
+
+.navbar {
+	background-color: black;
+	font-size: 28px;
+	color: rgb(230,230,230);
+}
+
+.logo {
+	background-image: url(../images/adidas-funky-logo.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 100%;
+	z-index: 99;
+}
+
+.icon {
+	width: 50px;
+}
+
+.navbar-brand {
+	height: 100%;
+	padding: 10px;
+}
+
+#navbar-links {
+	padding: 25px;
+}
+
+.first-row {
+	margin-top: 100px;
+}
+
+.text-overlay {
+	background: rgba(150,150,150,0.2);
+	border-radius: 8px;
+	padding: 10px;
+	text-align: center;
+}
